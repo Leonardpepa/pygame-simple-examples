@@ -1,6 +1,6 @@
 # pygame-simple-examples
 
-Simple games made with python and pygame
+Simple games made with python and pygame, for learning purposes.
 
 # Prerequisites
 
